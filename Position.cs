@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace <yProject.Components.CustomRefresh
+namespace MyProject.Components.CustomRefresh
 {
     public enum Position
     {
@@ -13,3 +13,4 @@ namespace <yProject.Components.CustomRefresh
         Bottom
     }
 }
+
