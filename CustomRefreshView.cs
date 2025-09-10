@@ -2,7 +2,7 @@
 using Microsoft.Maui.Controls;
 using Microsoft.Maui.Controls.Shapes;
 
-namespace LanguageInUse.Components.CustomRefresh
+namespace MyProject.Components.CustomRefresh
 {
     public class CustomRefreshView : ContentView
     {
@@ -368,4 +368,5 @@ namespace LanguageInUse.Components.CustomRefresh
             }
         }
     }
+
 }
